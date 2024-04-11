@@ -10,7 +10,7 @@ Man page PDF viewer featured in Luke Smith's "Layin' down Pipes like a Unix Chad
 
 # Installation
 ```
-git clone https://github.com/Wizkid116/mansplain
+git clone https://github.com/Wizkid116/mansplain && cd ~/mansplain
 chmod +x mansplain
 
 #optional
